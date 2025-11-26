@@ -1,2 +1,5 @@
 # practicerepo
 ## study git
+```
+ls
+```
